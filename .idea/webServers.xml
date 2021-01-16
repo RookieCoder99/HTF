@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cfca3f74-2bc7-4d82-a9c3-436bbb00fe68" name="10.181.232.243" url="http://10.181.6.134">
+        <fileTransfer host="10.181.6.134" port="9333" rootFolder="/home/makunming" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="9333" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
